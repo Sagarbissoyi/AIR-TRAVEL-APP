@@ -391,7 +391,7 @@ margin-bottom: 1rem;
     display: flex;
     flex-wrap: wrap;
     align-items: start;
-    justify-content: start;
+    justify-content: space-around;
     gap: 1rem;
 }
 .clients .box-container .box{
